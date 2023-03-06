@@ -4,3 +4,4 @@ function sayMyName(fullName) {
 }
 
 sayMyName("Beyoncé", "Knowles");
+sayMyName("Beyoncé");
