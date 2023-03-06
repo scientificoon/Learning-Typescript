@@ -1,3 +1,5 @@
+
+
 interface Painter {
     finish(): boolean;
     ownMaterials: Material[];
